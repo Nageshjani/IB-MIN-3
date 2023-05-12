@@ -1,0 +1,15 @@
+
+tickers = ["INTC","AMZN","MSFT"]
+
+EXPIRY="20230519"
+
+DELTA=0.25
+
+CON_ADRESS="127.0.0.1"
+
+TWS_ID=7497
+
+CLIENT_ID=1
+
+
+AVG_IVS=True

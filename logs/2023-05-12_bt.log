@@ -1,0 +1,187 @@
+2023-05-11 14:44:12:Error . Id : -1 ,2104, Market data farm connection is OK:usfarm.nj
+2023-05-11 14:44:12:Error . Id : -1 ,2104, Market data farm connection is OK:hfarm
+2023-05-11 14:44:12:Error . Id : -1 ,2104, Market data farm connection is OK:jfarm
+2023-05-11 14:44:12:Error . Id : -1 ,2104, Market data farm connection is OK:usopt.nj
+2023-05-11 14:44:12:Error . Id : -1 ,2104, Market data farm connection is OK:cashfarm
+2023-05-11 14:44:12:Error . Id : -1 ,2104, Market data farm connection is OK:usopt
+2023-05-11 14:44:12:Error . Id : -1 ,2104, Market data farm connection is OK:eufarmnj
+2023-05-11 14:44:12:Error . Id : -1 ,2104, Market data farm connection is OK:usfarm
+2023-05-11 14:44:12:Error . Id : -1 ,2106, HMDS data farm connection is OK:euhmds
+2023-05-11 14:44:12:Error . Id : -1 ,2106, HMDS data farm connection is OK:cashhmds
+2023-05-11 14:44:12:Error . Id : -1 ,2106, HMDS data farm connection is OK:fundfarm
+2023-05-11 14:44:12:Error . Id : -1 ,2106, HMDS data farm connection is OK:ushmds
+2023-05-11 14:44:12:Error . Id : -1 ,2158, Sec-def data farm connection is OK:secdefil
+2023-05-11 14:44:15:inside sstreamStockLtp
+2023-05-11 14:44:18:start Downloading stockIvs!
+2023-05-11 14:44:20:3. Success(StocksIV)
+2023-05-11 14:44:20:start Downloading Option Contracts!
+2023-05-11 14:44:21:INTC ATM : 28.5
+2023-05-11 14:44:21:2. Success(LTP) 
+2023-05-11 14:44:26:AMZN ATM : 112.0
+2023-05-11 14:44:31:MSFT ATM : 310.0
+2023-05-11 14:44:31:4. Success(options)
+2023-05-11 14:44:31:start Streaming optionGreeks!
+2023-05-11 14:45:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028000']
+2023-05-11 14:45:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500']
+2023-05-11 14:45:51:Inside printDeltas
+2023-05-11 14:45:51:INTC | 00:15:51 | NetIv -0.08 | C/Bid: None | C/Ask: None | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:46:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500']
+2023-05-11 14:46:01:INTC | 00:16:01 | NetIv -0.08 | C/Bid: None | C/Ask: None | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:46:11:INTC | 00:16:11 | NetIv -0.08 | C/Bid: None | C/Ask: None | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:46:16:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500']
+2023-05-11 14:46:21:INTC | 00:16:21 | NetIv -0.08 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:46:21:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:46:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500']
+2023-05-11 14:46:31:INTC | 00:16:31 | NetIv -0.08 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:46:31:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:46:41:INTC | 00:16:41 | NetIv -0.08 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:46:41:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:46:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00111000']
+2023-05-11 14:46:51:INTC | 00:16:51 | NetIv -0.08 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:46:51:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:47:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:47:01:INTC | 00:17:01 | NetIv -0.08 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:47:01:AMZN | 00:17:01 | NetIv 0.0494 | C/Bid: 0.06 | C/Ask: 0.23 | P/Bid 0.36 | P/Ask 0.38 | stkoptIv 2.851
+2023-05-11 14:47:01:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:47:11:INTC | 00:17:11 | NetIv -0.08 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:47:11:AMZN | 00:17:11 | NetIv 0.0494 | C/Bid: 0.06 | C/Ask: 0.23 | P/Bid 0.36 | P/Ask 0.38 | stkoptIv 2.851
+2023-05-11 14:47:11:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:47:16:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:47:21:INTC | 00:17:21 | NetIv -0.08 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:47:21:AMZN | 00:17:21 | NetIv 0.0494 | C/Bid: 0.06 | C/Ask: 0.23 | P/Bid 0.36 | P/Ask 0.38 | stkoptIv 2.851
+2023-05-11 14:47:21:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:47:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:47:31:INTC | 00:17:31 | NetIv -0.08 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:47:31:AMZN | 00:17:31 | NetIv 0.0494 | C/Bid: 0.06 | C/Ask: 0.23 | P/Bid 0.36 | P/Ask 0.38 | stkoptIv 2.851
+2023-05-11 14:47:31:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:47:41:INTC | 00:17:41 | NetIv -0.08 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:47:41:AMZN | 00:17:41 | NetIv 0.0505 | C/Bid: 0.07 | C/Ask: 0.08 | P/Bid 0.35 | P/Ask 0.38 | stkoptIv 2.8515
+2023-05-11 14:47:41:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:47:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:47:51:INTC | 00:17:51 | NetIv -0.08 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:47:51:AMZN | 00:17:51 | NetIv 0.0505 | C/Bid: 0.07 | C/Ask: 0.08 | P/Bid 0.35 | P/Ask 0.38 | stkoptIv 2.8515
+2023-05-11 14:47:51:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:48:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:48:01:INTC | 00:18:01 | NetIv -0.08 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:48:01:AMZN | 00:18:01 | NetIv 0.0505 | C/Bid: 0.07 | C/Ask: 0.08 | P/Bid 0.35 | P/Ask 0.38 | stkoptIv 2.8515
+2023-05-11 14:48:01:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:48:11:INTC | 00:18:11 | NetIv -0.0801 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:48:11:AMZN | 00:18:11 | NetIv 0.0505 | C/Bid: 0.06 | C/Ask: 0.23 | P/Bid 0.35 | P/Ask 0.38 | stkoptIv 2.8515
+2023-05-11 14:48:11:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:48:16:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:48:21:INTC | 00:18:21 | NetIv -0.0801 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:48:21:AMZN | 00:18:21 | NetIv 0.0505 | C/Bid: 0.06 | C/Ask: 0.23 | P/Bid 0.36 | P/Ask 0.39 | stkoptIv 2.8515
+2023-05-11 14:48:21:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:48:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:48:31:INTC | 00:18:31 | NetIv -0.0801 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:48:31:AMZN | 00:18:31 | NetIv 0.0505 | C/Bid: 0.06 | C/Ask: 0.23 | P/Bid 0.36 | P/Ask 0.39 | stkoptIv 2.8515
+2023-05-11 14:48:31:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:48:41:INTC | 00:18:41 | NetIv -0.0801 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid None | P/Ask None | stkoptIv 10.0304
+2023-05-11 14:48:41:AMZN | 00:18:41 | NetIv 0.0505 | C/Bid: 0.06 | C/Ask: 0.23 | P/Bid 0.36 | P/Ask 0.39 | stkoptIv 2.8515
+2023-05-11 14:48:41:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:48:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:48:51:INTC | 00:18:51 | NetIv -0.0759 | C/Bid: 0.05 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:48:51:AMZN | 00:18:51 | NetIv 0.0471 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid 0.36 | P/Ask 0.39 | stkoptIv 2.8532
+2023-05-11 14:48:51:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:49:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:49:01:INTC | 00:19:01 | NetIv -0.0759 | C/Bid: 0.05 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:49:01:AMZN | 00:19:01 | NetIv 0.0459 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid 0.34 | P/Ask 0.38 | stkoptIv 2.8527
+2023-05-11 14:49:01:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:49:11:INTC | 00:19:11 | NetIv -0.0759 | C/Bid: 0.05 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:49:11:AMZN | 00:19:11 | NetIv 0.0459 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid 0.34 | P/Ask 0.38 | stkoptIv 2.8527
+2023-05-11 14:49:11:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:49:16:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:49:21:INTC | 00:19:21 | NetIv -0.0759 | C/Bid: 0.05 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:49:21:AMZN | 00:19:21 | NetIv 0.0459 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid 0.34 | P/Ask 0.38 | stkoptIv 2.8527
+2023-05-11 14:49:21:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:49:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:49:31:INTC | 00:19:31 | NetIv -0.0759 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:49:31:AMZN | 00:19:31 | NetIv 0.0459 | C/Bid: 0.06 | C/Ask: 0.07 | P/Bid 0.31 | P/Ask 0.38 | stkoptIv 2.8527
+2023-05-11 14:49:31:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:49:41:INTC | 00:19:41 | NetIv -0.0759 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:49:41:AMZN | 00:19:41 | NetIv 0.0459 | C/Bid: 0.06 | C/Ask: 0.07 | P/Bid 0.31 | P/Ask 0.38 | stkoptIv 2.8527
+2023-05-11 14:49:41:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:49:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:49:51:INTC | 00:19:51 | NetIv -0.0759 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:49:51:AMZN | 00:19:51 | NetIv 0.0459 | C/Bid: 0.06 | C/Ask: 0.07 | P/Bid 0.31 | P/Ask 0.38 | stkoptIv 2.8527
+2023-05-11 14:49:51:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:50:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:50:01:INTC | 00:20:01 | NetIv -0.0759 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:50:01:AMZN | 00:20:01 | NetIv 0.0459 | C/Bid: 0.06 | C/Ask: 0.07 | P/Bid 0.31 | P/Ask 0.38 | stkoptIv 2.8527
+2023-05-11 14:50:01:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:50:11:INTC | 00:20:11 | NetIv -0.0759 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:50:11:AMZN | 00:20:11 | NetIv 0.0471 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid 0.37 | P/Ask 0.39 | stkoptIv 2.8533
+2023-05-11 14:50:11:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:50:14:Error . Id : 1003 ,354, Requested market data is not subscribed.
+2023-05-11 14:50:14:Error . Id : 1003 ,300, Can't find EId with tickerId:1003
+2023-05-11 14:50:16:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:50:21:INTC | 00:20:21 | NetIv -0.0759 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:50:21:AMZN | 00:20:21 | NetIv 0.0471 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid 0.37 | P/Ask 0.39 | stkoptIv 2.8533
+2023-05-11 14:50:21:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:50:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:50:31:INTC | 00:20:31 | NetIv -0.0759 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:50:31:AMZN | 00:20:31 | NetIv 0.0471 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid 0.37 | P/Ask 0.39 | stkoptIv 2.8533
+2023-05-11 14:50:31:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:50:41:INTC | 00:20:41 | NetIv -0.0759 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:50:41:AMZN | 00:20:41 | NetIv 0.0471 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid 0.37 | P/Ask 0.39 | stkoptIv 2.8533
+2023-05-11 14:50:41:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:50:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:50:51:INTC | 00:20:51 | NetIv -0.0759 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:50:51:AMZN | 00:20:51 | NetIv 0.0621 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid 0.36 | P/Ask 0.38 | stkoptIv 2.8458
+2023-05-11 14:50:51:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:51:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:51:01:INTC | 00:21:01 | NetIv -0.0759 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:51:01:AMZN | 00:21:01 | NetIv 0.0621 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid 0.36 | P/Ask 0.38 | stkoptIv 2.8458
+2023-05-11 14:51:01:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:51:11:INTC | 00:21:11 | NetIv -0.0759 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:51:11:AMZN | 00:21:11 | NetIv 0.0621 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid 0.36 | P/Ask 0.38 | stkoptIv 2.8458
+2023-05-11 14:51:11:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:51:16:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:51:21:INTC | 00:21:21 | NetIv -0.0759 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.0284
+2023-05-11 14:51:21:AMZN | 00:21:21 | NetIv 0.0621 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid 0.36 | P/Ask 0.38 | stkoptIv 2.8458
+2023-05-11 14:51:21:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:51:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:51:31:INTC | 00:21:31 | NetIv -0.0732 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.027
+2023-05-11 14:51:31:AMZN | 00:21:31 | NetIv 0.0592 | C/Bid: 0.06 | C/Ask: 0.07 | P/Bid 0.36 | P/Ask 0.38 | stkoptIv 2.8443
+2023-05-11 14:51:31:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:51:41:INTC | 00:21:41 | NetIv -0.0732 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.027
+2023-05-11 14:51:41:AMZN | 00:21:41 | NetIv 0.0592 | C/Bid: 0.06 | C/Ask: 0.07 | P/Bid 0.36 | P/Ask 0.38 | stkoptIv 2.8443
+2023-05-11 14:51:41:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:51:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:51:51:INTC | 00:21:51 | NetIv -0.0732 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.027
+2023-05-11 14:51:51:AMZN | 00:21:51 | NetIv 0.0592 | C/Bid: 0.06 | C/Ask: 0.07 | P/Bid 0.36 | P/Ask 0.38 | stkoptIv 2.8443
+2023-05-11 14:51:51:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:52:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:52:01:INTC | 00:22:01 | NetIv -0.0732 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.027
+2023-05-11 14:52:01:AMZN | 00:22:01 | NetIv 0.0592 | C/Bid: 0.06 | C/Ask: 0.07 | P/Bid 0.36 | P/Ask 0.38 | stkoptIv 2.8443
+2023-05-11 14:52:01:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:52:11:INTC | 00:22:11 | NetIv -0.0733 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.027
+2023-05-11 14:52:11:AMZN | 00:22:11 | NetIv 0.0592 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid 0.35 | P/Ask 0.37 | stkoptIv 2.8443
+2023-05-11 14:52:11:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:52:16:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:52:21:INTC | 00:22:21 | NetIv -0.0733 | C/Bid: 0.06 | C/Ask: 0.08 | P/Bid None | P/Ask None | stkoptIv 10.027
+2023-05-11 14:52:21:AMZN | 00:22:21 | NetIv 0.0592 | C/Bid: 0.05 | C/Ask: 0.07 | P/Bid 0.35 | P/Ask 0.37 | stkoptIv 2.8443
+2023-05-11 14:52:21:Error : Threading Mixed but nothing To be worried
+2023-05-11 14:52:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:52:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:53:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:53:16:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:53:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:53:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:54:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:54:16:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:54:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:54:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:55:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:55:16:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:55:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:55:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:56:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:56:16:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:56:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:56:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:57:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:57:16:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:57:31:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:57:46:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
+2023-05-11 14:58:01:findDeltas ['INTC  230512C00029500', 'INTC  230512P00028500', 'AMZN  230512C00114000', 'AMZN  230512P00112000']
